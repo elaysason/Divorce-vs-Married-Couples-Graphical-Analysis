@@ -52,7 +52,7 @@ The network analysis includes the following steps:
 ## Community Detection
 The code employs the Louvain community detection algorithm to identify communities within the network. It calculates modularity to assess the quality of the detected communities.
 
-The project provides separate analyses for all couples, divorced couples, and married couples.
+Separate analyses for all couples, divorced couples, and married couples are provided.
 
 ## Statistical Analysis
 The project performs statistical tests to assess the separation between married and divorced couples. It includes Kruskal-Wallis H tests for specific network properties and T-tests for modularity values.
