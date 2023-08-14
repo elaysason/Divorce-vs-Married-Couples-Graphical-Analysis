@@ -21,9 +21,9 @@ This project analyzes data related to divorce and marriage using network analysi
 The project requires several Python libraries. To install the necessary packages, run the following command:
 
 
-"""
-pip install python-louvain networkx pandas numpy matplotlib
-"""
+```bash
+pip install pyspark
+```
 
 ## Usage
 1. Run the provided code in a Python environment.
