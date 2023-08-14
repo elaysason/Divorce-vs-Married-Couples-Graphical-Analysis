@@ -55,7 +55,7 @@ The code employs the Louvain community detection algorithm to identify communiti
 Separate analyses for all couples, divorced couples, and married couples are provided.
 
 ## Statistical Analysis
-The project performs statistical tests to assess the separation between married and divorced couples. It includes Kruskal-Wallis H tests for specific network properties and T-tests for modularity values.
+We performed statistical tests to assess the separation between married and divorced couples. It includes Kruskal-Wallis H tests for specific network properties and T-tests for modularity values.
 
 ## Results
 The code generates various results and visualizations. These include:
