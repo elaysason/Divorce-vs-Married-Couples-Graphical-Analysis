@@ -2,7 +2,7 @@
 Analyzing divorce and marriage dynamics using network analysis and graph theory.
 
 ## Overview
-This project analyzes data related to divorce and marriage using network analysis techniques. The code is organized into several parts, including data preprocessing, graph creation, community detection, and statistical analysis. The main objectives of the project are to:
+In this project we permored analyzes data related to divorce and marriage using network analysis techniques. The code is organized into several parts, including data preprocessing, graph creation, community detection, and statistical analysis. The main objectives of the project are to:
 
 - Create networks based on couples' answers
 - Detect communities within the networks using Louvain community detection
